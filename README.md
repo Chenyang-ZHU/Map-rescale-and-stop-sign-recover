@@ -1,5 +1,5 @@
 # Map-rescale-and-stop-sign-recover
-This project is aiming at recovering the real size of stop sign based on the rescales ORB_SLAM map.
+This project is aiming at recovering the real size of stop sign based on the rescales ORB_SLAM map. Please read the pdf file carefully, which is a report of this peoject.
 
 1. ORB-SLAM:https://github.com/raulmur/ORB_SLAM2
 
